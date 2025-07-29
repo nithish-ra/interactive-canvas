@@ -2,7 +2,7 @@
 
 This is an interactive web application built with React and Fabric.js that provides a creative space for users to design and experiment with various shapes on a canvas. It showcases a modern, responsive UI with dynamic animations and a real-time event log.
 
-### 🌐 **[Live Demo (Link to your deployed site)](https://github.com/nithish-ra/interactive-canvashttps:)**
+### 🌐 **[Live Demo](https://github.com/nithish-ra/interactive-canvashttps:)**
 
 ![Project Screenshot](output.png)
 
